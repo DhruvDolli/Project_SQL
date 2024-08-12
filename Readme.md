@@ -19,4 +19,4 @@ The analysis leverages a dataset containing information on job postings, salarie
 
 This project is a useful resource for **Data Science** professionals and students looking to understand the Indian job market better and identify key skills that are highly valued in the industry.
 
-You can further inspect my insights from
+You can further inspect my insights from [EDA_for_SQL](/EDA_for_SQL.ipynb/)
